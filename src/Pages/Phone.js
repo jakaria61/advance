@@ -14,7 +14,7 @@ class Phone extends Component {
                       
             <div className="all">
                 <div className="card" id="card-1">
-                <img src={iphone} alt="remote image"></img>
+                <img src={iphone} alt=" "></img>
                 <br></br>
                 <div className="d-flex justify-content-between">
                         <h3>$200</h3>
@@ -23,7 +23,7 @@ class Phone extends Component {
                    
                 </div>
                 <div className="card" id="card-2">
-                <img src={mi} alt="remote image"></img>
+                <img src={mi} alt=" "></img>
                 <br></br>
                 <div className="d-flex justify-content-between">
                         <h3>$150</h3>
@@ -31,7 +31,7 @@ class Phone extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={vivo} alt="remote image"></img>
+                <img src={vivo} alt=" "></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$230</h3>
@@ -39,7 +39,7 @@ class Phone extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={oneplus} alt="remote image"></img>
+                <img src={oneplus} alt=" "></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$150</h3>
@@ -47,7 +47,7 @@ class Phone extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={samsung} alt="remote image"></img>
+                <img src={samsung} alt=" "></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$230</h3>
@@ -55,7 +55,7 @@ class Phone extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={oppo} alt="remote image"></img>
+                <img src={oppo} alt=" "></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$200</h3>

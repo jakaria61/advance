@@ -15,7 +15,7 @@ class Bag extends Component {
                       
             <div className="all">
                 <div className="card" id="card-1">
-                <img src={bag1} alt="remote image"></img>
+                <img src={bag1} alt=""></img>
                 <br></br>
                 <div className="d-flex justify-content-between">
                         <h3>$200</h3>
@@ -24,7 +24,7 @@ class Bag extends Component {
                    
                 </div>
                 <div className="card" id="card-2">
-                <img src={bag2} alt="remote image"></img>
+                <img src={bag2} alt=""></img>
                 <br></br>
                 <div className="d-flex justify-content-between">
                         <h3>$150</h3>
@@ -32,7 +32,7 @@ class Bag extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={bag3} alt="remote image"></img>
+                <img src={bag3} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$230</h3>
@@ -40,7 +40,7 @@ class Bag extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={bag4} alt="remote image"></img>
+                <img src={bag4} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$150</h3>
@@ -48,7 +48,7 @@ class Bag extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={bag5} alt="remote image"></img>
+                <img src={bag5} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$230</h3>
@@ -56,7 +56,7 @@ class Bag extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={bag6} alt="remote image"></img>
+                <img src={bag6} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$200</h3>

@@ -14,7 +14,7 @@ class Watch extends Component {
                       
             <div className="all">
                 <div className="card" id="card-1">
-                <img src={Watch1} alt="remote image"></img>
+                <img src={Watch1} alt=""></img>
                 <br></br>
                 <div className="d-flex justify-content-between">
                         <h3>$250</h3>
@@ -23,7 +23,7 @@ class Watch extends Component {
                    
                 </div>
                 <div className="card" id="card-2">
-                <img src={Watch2} alt="remote image"></img>
+                <img src={Watch2} alt=""></img>
                 <br></br>
                 <div className="d-flex justify-content-between">
                         <h3>$170</h3>
@@ -31,7 +31,7 @@ class Watch extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={watch3} alt="remote image"></img>
+                <img src={watch3} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$270</h3>
@@ -39,7 +39,7 @@ class Watch extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={Watch4} alt="remote image"></img>
+                <img src={Watch4} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$150</h3>
@@ -47,7 +47,7 @@ class Watch extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={Watch5} alt="remote image"></img>
+                <img src={Watch5} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$400</h3>
@@ -55,7 +55,7 @@ class Watch extends Component {
                    </div>
                    </div>
                    <div className="card" id="card-2">
-                <img src={Watch6} alt="remote image"></img>
+                <img src={Watch6} alt=""></img>
                 <br></br>
                     <div className="d-flex justify-content-between">
                         <h3>$300</h3>

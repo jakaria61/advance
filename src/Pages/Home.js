@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import shoes from '../images/Shoes/shoes.jpg';
 import watch5 from '../images/watch/watch5.jpg'
 import bag5 from '../images/Bag/bag5.jpg'
-import Earing from './Earing';
+
 import ear from '../images/ear/ear.jpg'
 import phone from '../images/phone/phone.jpg';
 import ring1 from '../images/ring/ring1.jpg';
@@ -15,7 +15,7 @@ class Home extends Component {
                       
         <div className="all">
             <div className="card" id="card-1">
-            <img src={shoes}></img>
+            <img src={shoes}  alt=""></img>
             <br></br>
             <div className="d-flex justify-content-between">
                     <h3>$200</h3>
@@ -24,7 +24,7 @@ class Home extends Component {
                
             </div>
             <div className="card" id="card-2">
-            <img src={watch5}></img>
+            <img src={watch5} alt=""></img>
             <br></br>
             <div className="d-flex justify-content-between">
                     <h3>$400</h3>
@@ -32,7 +32,7 @@ class Home extends Component {
                </div>
                </div>
                <div className="card" id="card-2">
-            <img src={bag5}></img>
+            <img src={bag5} alt=""></img>
             <br></br>
                 <div className="d-flex justify-content-between">
                     <h3>$300</h3>
@@ -41,7 +41,7 @@ class Home extends Component {
                </div>
 
                <div className="card" id="card-2">
-            <img src={ear}></img>
+            <img src={ear} alt=""></img>
             <br></br>
                 <div className="d-flex justify-content-between">
                     <h3>$250</h3>
@@ -49,7 +49,7 @@ class Home extends Component {
                </div>
                </div>
                <div className="card" id="card-2">
-            <img src={phone}></img>
+            <img src={phone} alt=""></img>
             <br></br>
                 <div className="d-flex justify-content-between">
                     <h3>$2000</h3>
@@ -58,7 +58,7 @@ class Home extends Component {
                </div>
 
                <div className="card" id="card-2">
-            <img src={ring1}></img>
+            <img src={ring1} alt=""></img>
             <br></br>
                 <div className="d-flex justify-content-between">
                     <h3>$170</h3>

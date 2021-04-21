@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import Mynav from './Pages/Mynav'
 import Myroute from './Pages/Myroute'

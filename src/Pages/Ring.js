@@ -16,7 +16,7 @@ class Ring extends Component {
                       
                       <div className="all">
                           <div className="card" id="card-1">
-                          <img src={ring1} alt="remote image"></img>
+                          <img src={ring1} alt=" "></img>
                           <br></br>
                           <div className="d-flex justify-content-between">
                                   <h3>$200</h3>
@@ -25,7 +25,7 @@ class Ring extends Component {
                              
                           </div>
                           <div className="card" id="card-2">
-                          <img src={ring2} alt="remote image"></img>
+                          <img src={ring2} alt=" "></img>
                           <br></br>
                           <div className="d-flex justify-content-between">
                                   <h3>$150</h3>
@@ -33,7 +33,7 @@ class Ring extends Component {
                              </div>
                              </div>
                              <div className="card" id="card-2">
-                          <img src={ring3} alt="remote image"></img>
+                          <img src={ring3} alt=" "></img>
                           <br></br>
                               <div className="d-flex justify-content-between">
                                   <h3>$230</h3>
@@ -41,7 +41,7 @@ class Ring extends Component {
                              </div>
                              </div>
                              <div className="card" id="card-2">
-                          <img src={ring4} alt="remote image"></img>
+                          <img src={ring4} alt=" "></img>
                           <br></br>
                               <div className="d-flex justify-content-between">
                                   <h3>$150</h3>
@@ -49,7 +49,7 @@ class Ring extends Component {
                              </div>
                              </div>
                              <div className="card" id="card-2">
-                          <img src={ring5} alt="remote image"></img>
+                          <img src={ring5} alt=" "></img>
                           <br></br>
                               <div className="d-flex justify-content-between">
                                   <h3>$230</h3>
@@ -57,7 +57,7 @@ class Ring extends Component {
                              </div>
                              </div>
                              <div className="card" id="card-2">
-                          <img src={ring6} alt="remote image"></img>
+                          <img src={ring6} alt=" "></img>
                           <br></br>
                               <div className="d-flex justify-content-between">
                                   <h3>$200</h3>
